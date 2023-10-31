@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: UW Global Innovation Exchange MarCom
+description: A compilation of the most-used marketing assets for internal use at the Global Innovation Exchange
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://gixmarketing.github.io/MarCom
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
